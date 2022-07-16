@@ -1,0 +1,24 @@
+.mm1
+{
+    margin: 10vh;
+}
+.mm1 h1
+{
+    color: darkgreen;
+    font-size: 4vh;
+    font-weight: bolder;
+}
+.mm1 h2
+{
+    color: darkgreen;
+    font-size: 2vh;
+    font-weight: bolder;
+}
+.comma2
+{
+    display: flex;
+    justify-content: flex-end;
+    align-items: flex-end;
+    height: 70vh;
+}
+

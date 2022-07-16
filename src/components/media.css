@@ -1,0 +1,1116 @@
+@media only screen and (min-device-width:1280px) {
+    .container10 {
+        display: flex;
+    }
+
+    #carouselExampleIndicators {
+        margin: 5rem;
+        margin-top: 0rem;
+    }
+
+    #go1 {
+        left: 15%;
+    }
+    .container9 img {
+        width: 20rem;
+    }
+
+    html {
+        margin-left: 2rem;
+        margin-right: 2rem;
+        }
+
+    .container2 {
+        margin-top: 5rem;
+        justify-content: center;
+    }
+
+    .con5 {
+        justify-content: space-around;
+    }
+
+    .con7 {
+        justify-content: space-around;
+    }
+
+    #h13 {
+        font-size: 2.5rem;
+        text-align: center;
+
+    }
+
+    #atext {
+        padding-top: 2.5rem;
+        padding-right: 3rem;
+    }
+
+    .break {
+        flex-basis: 100%;
+        width: 0;
+    }
+
+    .header .logo img {
+        width: 20rem;
+    }
+
+    .flexx {
+        display: flex;
+        justify-content: space-between;
+    }
+}
+
+@media only screen and (min-device-width:600px) and (max-device-width:822px) {
+    html {
+        font-size: 37%;
+        margin: 0;
+    }
+    .container8
+    {
+        background-position: right top, left top, left bottom,right bottom;
+        background-size: 50rem,50rem,35rem,35rem;
+    }
+    .break5 {
+        flex-basis: 100%;
+        width: 0;
+    }
+    body {
+        margin: 0;
+    }
+
+    #fruits {
+        position: relative;
+        width: 40rem;
+        left: 15%;
+        overflow: hidden;
+    }
+
+    #mango {
+        position: relative;
+        width: 20rem;
+        overflow: hidden;
+        top: -10%;
+        left: -1%;
+    }
+
+    #go {
+        position: relative;
+        width: 20rem;
+        top: 1%;
+        left: 50%;
+    }
+
+    #go1 {
+        position: relative;
+        width: 30rem;
+        left: -30%;
+    }
+
+    #go2 {
+        position: absolute;
+        right: 30%;
+        bottom: 10%;
+        width: 50rem;
+    }
+
+    .header li a {
+        padding-left: 30px;
+    }
+
+    #atext {
+        padding-top: 5rem;
+        font-size: 4rem;
+    }
+
+    .con8 {
+        display: flex;
+    }
+
+    .header .logo img {
+        width: 40rem;
+    }
+
+    #h41 {
+        text-align: center;
+        color: darkgreen;
+    }
+
+    .container10 {
+        display: flex;
+        justify-content: center;
+        flex-wrap: wrap;
+    }
+
+    .container3 {
+        display: flex;
+    }
+
+    .container3 img {
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+    }
+
+    .con4 {
+        display: flex;
+    }
+
+    .con5 {
+        display: table;
+
+    }
+
+    .con5 img {
+        width: 40rem;
+    }
+
+    .con7 {
+        display: table;
+        margin-left: 20%;
+    }
+
+    .con7 img {
+        width: 40rem;
+    }
+
+    .lmenu {
+        display: initial;
+    }
+
+    .container1 {
+        padding-top: 20rem;
+        padding-bottom: 10rem;
+    }
+
+    .container2 {
+        display: block;
+        margin-left: auto;
+        margin-top: auto;
+        margin-right: auto;
+        margin-bottom: auto;
+        text-align: center;
+    }
+
+    #h13 {
+        font-size: 2.5rem;
+        width: 60rem;
+        margin: auto;
+        text-align: center;
+
+    }
+
+
+
+    .container9 img {
+        width: 30rem;
+    }
+
+    .tt1 h1 {
+        font-size: 7rem;
+    }
+
+    .tt1 h2 {
+        font-size: 4rem;
+    }
+
+    .mm1 {
+        margin: 3vh;
+    }
+
+    .mm1 img {
+        width: 15rem;
+        height: 15rem;
+    }
+
+    .comma img {
+        width: 12rem;
+        height: 12rem;
+    }
+
+    .comma2 {
+        height: 35vh;
+    }
+
+    .comma2 img {
+        width: 12rem;
+        height: 12rem;
+    }
+
+    .b1 {
+        display: table;
+        height: 20%;
+    }
+
+    #t11 {
+        font-size: 2.5rem;
+        font-weight: bolder;
+        text-align: center;
+        width: 100%;
+        padding: 4rem;
+
+    }
+
+    input[type=submit] {
+        background-color: orangered;
+        color: white;
+        font-size: 3vh;
+        margin: 1.5vh;
+        padding: 12px 20px;
+        border: none;
+        border-radius: 4px;
+        cursor: pointer;
+        text-align: center;
+    }
+
+    .break1 {
+        flex-basis: 100%;
+        width: 0;
+    }
+
+    .break {
+        flex-basis: 0;
+        width: 100%;
+    }
+
+    .con9 {
+        margin: 3rem;
+        width: 56rem;
+        height: 48rem;
+        background-size: cover;
+
+    }
+
+    #h91 {
+        position: absolute;
+        color: white;
+        width: 56rem;
+        height: 10rem;
+        text-align: center;
+        font-weight: bolder;
+        background-color: #7DAA7B;
+        font-size: 4rem;
+        margin-top: 38rem;
+    }
+
+    .overlay {
+        position: absolute;
+        opacity: 0;
+
+        background: #7DAA7B;
+        width: 56rem;
+        height: 0;
+
+        cursor: pointer;
+    
+    }
+
+    #h61 {
+        font-size: 4rem;
+
+        margin-left: 9rem;
+        margin-right: 9rem;
+    }
+
+    #h661 {
+        font-size: 3rem;
+    }
+
+    .con9:hover .overlay {
+        opacity: 1;
+        height: 48rem;
+        animation-name: a4;
+        animation-duration: 0.45s;
+        animation-iteration-count: 1;
+        animation-fill-mode: forwards;
+        animation-timing-function: ease-out;
+        transition: 0.5s ease;
+
+    }
+
+    @keyframes a4 {
+        0% {
+            transform: translateY(152px);
+            opacity: 0;
+        }
+
+        50% {
+            opacity: 0.5;
+        }
+
+        100% {
+            transform: translateY(0px);
+            opacity: 1;
+        }
+
+    }
+
+    .flexx {
+        display: contents;
+    }
+
+    .info {
+        display: flex;
+        justify-content: space-around;
+        width: 100%;
+    }
+
+    #img6 {
+        height: 9rem;
+        width: 9rem;
+        margin: 0;
+    }
+}
+
+@media only screen and (max-device-width:600px) {
+    html {
+        font-size: 17%;
+    }
+    .container8
+    {
+        background-position: right top, left top, left bottom,right bottom;
+        background-size: 50rem,50rem,45rem,45rem;
+    }
+    #carouselExampleIndicators {
+        margin: 5rem;
+        margin-top: 0rem;
+    }
+
+    .con8 {
+        display: flex;
+    }
+
+    .header .logo img {
+        width: 50rem;
+    }
+
+    #h41 {
+        text-align: center;
+        color: darkgreen;
+    }
+
+    .container10 {
+        justify-content: center;
+    }
+
+    .container3 img {
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+    }
+
+    .con4 {
+        display: flex;
+    }
+
+    .con5 {
+        display: table;
+    }
+
+    .con5 img {
+        width: 40rem;
+    }
+    .con7 {
+        display: table;
+        margin-top: 3rem;
+        margin-left: 20%;
+
+    }
+
+    .con7 img {
+        width: 40rem;
+    }
+
+    .lmenu {
+        display: initial;
+    }
+
+    .container1 {
+        padding-top: 20rem;
+        display: grid;
+        padding-bottom: 10rem;
+    }
+
+    .container1 img {
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        width: 90%;
+    }
+
+    .container2 {
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        text-align: center;
+    }
+
+    #h13 {
+        font-size: 2.5rem;
+        width: 90rem;
+        text-align: center;
+
+    }
+
+
+
+    .container9 img {
+        width: 30rem;
+    }
+
+    .tt1 h1 {
+        font-size: 7rem;
+    }
+
+    .tt1 h2 {
+        font-size: 4rem;
+    }
+
+    .mm1 {
+        margin: 3vh;
+    }
+
+    .mm1 img {
+        width: 15rem;
+        height: 15rem;
+    }
+
+    .comma img {
+        width: 12rem;
+        height: 12rem;
+    }
+
+    .comma2 {
+        height: 35vh;
+    }
+
+    .comma2 img {
+        width: 12rem;
+        height: 12rem;
+    }
+
+    .b1 {
+        display: table;
+        height: 20%;
+    }
+
+    .vertical {
+        display: none;
+    }
+
+    #t11 {
+        font-size: 2.5rem;
+        font-weight: bolder;
+        text-align: center;
+        width: 100%;
+        padding: 4rem;
+
+    }
+
+    .split {
+        height: 30vh;
+        background: linear-gradient(to bottom,
+                white 0%,
+                white 50%,
+                darkgreen 50%,
+                darkgreen 100%);
+        display: flex;
+        justify-content: center;
+    }
+
+    input[type=submit] {
+        background-color: orangered;
+        color: white;
+        font-size: 3vh;
+        margin: 1.5vh;
+        padding: 12px 20px;
+        border: none;
+        border-radius: 4px;
+        cursor: pointer;
+        text-align: center;
+    }
+
+    .break1 {
+        flex-basis: 100%;
+        width: 0;
+    }
+    .container10 {
+        justify-content: center;
+        flex-wrap: wrap;
+    }
+    .break4 {
+        flex-basis: 100%;
+        width: 0;
+    }
+    .container10 {
+        display: flex;
+
+    }
+    .break {
+        flex-basis: 100%;
+        width: 0;
+    }
+
+    .break2 {
+        flex-basis: 100%;
+        width: 0;
+    }
+
+    .con9 {
+
+        margin: 3rem;
+        width: 96rem;
+        height: 88rem;
+        background-size: cover;
+
+    }
+
+    #h91 {
+        position: absolute;
+        color: white;
+        width: 96rem;
+        height: 12rem;
+        text-align: center;
+        font-weight: bolder;
+        background-color: #7DAA7B;
+        margin-top: 76rem;
+        font-size: 5rem;
+    }
+
+    #h61 {
+        font-size: 5rem;
+        text-align: center;
+        margin-left: 18rem;
+        margin-right: 18rem;
+    }
+
+    #h661 {
+        font-size: 3rem;
+    }
+
+    .overlay {
+        position: absolute;
+        opacity: 0;
+
+        background: #7DAA7B;
+        width: 96rem;
+        height: 0;
+
+        cursor: pointer;
+
+    }
+
+    .con9:hover .overlay {
+        opacity: 1;
+        height: 88rem;
+        animation-name: a4;
+        animation-duration: 0.45s;
+        animation-iteration-count: 1;
+        animation-fill-mode: forwards;
+        animation-timing-function: ease-out;
+        transition: 0.5s ease;
+
+    }
+
+    @keyframes a4 {
+        0% {
+            transform: translateY(115px);
+            opacity: 0;
+        }
+
+        50% {
+            opacity: 0.5;
+        }
+
+        100% {
+            transform: translateY(0px);
+            opacity: 1;
+        }
+
+    }
+
+    ::placeholder {
+        color: white;
+        font-weight: bolder;
+        font-size: 4rem;
+    }
+
+    textarea {
+        background-color: rgba(255, 255, 255, 0);
+        color: white;
+        border-bottom: 5px solid white;
+        border-top: 0;
+        border-left: 0;
+        font-size: 4rem;
+        border-right: none;
+        margin: 0vh;
+    }
+    #hb1 {
+        font-size: 5rem;
+    }
+
+    #hb2 {
+        font-size: 3rem;
+    }
+
+    .flexx {
+        display: contents;
+    }
+
+    .info {
+        display: flex;
+        justify-content: space-around;
+        width: 100%;
+    }
+
+    #fruits {
+        position: relative;
+        width: 40rem;
+        bottom: 1%;
+        left: 30%;
+        overflow: hidden;
+    }
+
+    #mango {
+        position: relative;
+        width: 20rem;
+        top: 30%;
+        left: -40%;
+    }
+
+    #go {
+        position: relative;
+        width: 20rem;
+        top: 10%;
+        right: 36%;
+    }
+
+    #go1 {
+        position: relative;
+        width: 30rem;
+        left: 20%;
+    }
+
+    #go2 {
+        position: absolute;
+        right: 10%;
+        bottom: 1%;
+        width: 80rem;
+
+    }
+
+    #img6 {
+        height: 9rem;
+        width: 9rem;
+        margin: 0;
+    }
+
+    #slider {
+        position: relative;
+        width: 50%;
+        height: 53vw;
+        margin: 5px auto;
+        margin-bottom: 50px;
+        perspective: 1400px;
+        transform-style: preserve-3d;
+    }
+
+    #img5 {
+        height: 45rem;
+    }
+
+    #s1:checked~#slide1,
+    #s2:checked~#slide2,
+    #s3:checked~#slide3,
+    #s4:checked~#slide4,
+    #s5:checked~#slide5 {
+        box-shadow: 0 13px 26px rgba(0, 0, 0, 0.3), 0 12px 6px rgba(0, 0, 0, 0.2);
+        transform: translate3d(0%, 0, 0px);
+    }
+
+    #s1:checked~#slide2,
+    #s2:checked~#slide3,
+    #s3:checked~#slide4,
+    #s4:checked~#slide5,
+    #s5:checked~#slide1 {
+        box-shadow: 0 6px 10px rgba(0, 0, 0, 0.3), 0 2px 2px rgba(0, 0, 0, 0.2);
+        transform: translate3d(30%, 0, -80px);
+    }
+
+    #s1:checked~#slide3,
+    #s2:checked~#slide4,
+    #s3:checked~#slide5,
+    #s4:checked~#slide1,
+    #s5:checked~#slide2 {
+        box-shadow: 0 1px 4px rgba(0, 0, 0, 0.4);
+        transform: translate3d(55%, 0, -100px);
+    }
+
+    #s1:checked~#slide5,
+    #s2:checked~#slide1,
+    #s3:checked~#slide2,
+    #s4:checked~#slide3,
+    #s5:checked~#slide4 {
+        box-shadow: 0 6px 10px rgba(0, 0, 0, 0.3), 0 2px 2px rgba(0, 0, 0, 0.2);
+        transform: translate3d(-30%, 0, -80px);
+    }
+
+    #s1:checked~#slide4,
+    #s2:checked~#slide5,
+    #s3:checked~#slide1,
+    #s4:checked~#slide2,
+    #s5:checked~#slide3 {
+        box-shadow: 0 1px 4px rgba(0, 0, 0, 0.4);
+        transform: translate3d(-55%, 0, -100px);
+    }
+
+    input[type=submit] {
+        background-color: orangered;
+        color: white;
+        font-size: 1.5vh;
+        margin: 1.5vh;
+        padding: 12px 20px;
+        border: none;
+        border-radius: 4px;
+        cursor: pointer;
+        text-align: center;
+    }
+    .te
+    {
+        display: table;
+        margin: 0;
+    }
+    input[type=text], select, textarea {
+        width: 100%; 
+        padding: 12px; 
+        margin-right: 0vh;
+        margin-left: 6rem;
+        margin-top: 6px; /* Add a top margin */
+        font-size: 2rem;
+        margin-bottom: 16pbax; /* Bottom margin */
+        
+      }
+      input[type=email], select, textarea {
+        width: 100%; 
+        padding: 12px; 
+        margin-left: 6rem;
+        font-size: 2rem;
+        margin-top: 6px; /* Add a top margin */
+        margin-bottom: 16pbax; /* Bottom margin */
+      
+      }
+      .sub
+      {
+        margin: 0;
+      }
+      
+}
+
+@media only screen and (min-device-width:822px) and (max-device-width:1280px) {
+    html {
+        font-size: 37%;
+    }
+    .container8
+    {
+        background-position: right top, left top, left bottom,right bottom;
+        background-size: 50rem,50rem,35rem,35rem;
+    }
+    .header li a {
+        padding-left: 30px;
+    }
+
+    #atext {
+        padding-top: 5rem;
+        font-size: 4rem;
+    }
+
+    .con8 {
+        display: flex;
+    }
+
+    #fruits {
+        position: relative;
+        width: 40rem;
+        left: 15%;
+        overflow: hidden;
+    }
+
+    #mango {
+        position: relative;
+        width: 20rem;
+        overflow: hidden;
+        top: -5%;
+        left: 9%;
+    }
+
+    #go {
+        position: relative;
+        width: 20rem;
+        top: 50%;
+    }
+
+    #go1 {
+        position: relative;
+        width: 30rem;
+        left: 0%;
+        bottom: 20%;
+    }
+
+    #go2 {
+        position: absolute;
+        right: 30%;
+        bottom: 10%;
+        width: 50rem;
+    }
+
+
+    .header .logo img {
+        width: 40rem;
+    }
+
+    #h41 {
+        text-align: center;
+        color: darkgreen;
+    }
+    .container10 {
+        display: flex;
+        justify-content: center;
+        flex-wrap: wrap;
+    }
+
+    .container3 {
+        display: flex;
+    }
+
+    .container3 img {
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+    }
+
+    .con4 {
+        display: flex;
+    }
+
+    .con5 {
+        display: table;
+
+    }
+
+    .con5 img {
+        width: 40rem;
+    }
+
+    .con7 {
+        display: table;
+        margin-left: 20%;
+    }
+
+    .con7 img {
+        width: 40rem;
+    }
+
+    .lmenu {
+        display: initial;
+    }
+
+    .container1 {
+        padding-top: 20rem;
+        padding-bottom: 10rem;
+    }
+
+    .container2 {
+        display: block;
+        margin-left: auto;
+        margin-top: auto;
+        margin-right: auto;
+        margin-bottom: auto;
+        text-align: center;
+    }
+
+    #h13 {
+        font-size: 2.5rem;
+        width: 60rem;
+        margin: auto;
+        text-align: center;
+
+    }
+
+
+
+    .container9 img {
+        width: 20rem;
+    }
+
+    .tt1 h1 {
+        font-size: 7rem;
+    }
+
+    .tt1 h2 {
+        font-size: 4rem;
+    }
+
+    .mm1 {
+        margin: 3vh;
+    }
+
+    .mm1 img {
+        width: 15rem;
+        height: 15rem;
+    }
+
+    .comma img {
+        width: 12rem;
+        height: 12rem;
+    }
+
+    .comma2 {
+        height: 35vh;
+    }
+
+    .comma2 img {
+        width: 12rem;
+        height: 12rem;
+    }
+
+    .b1 {
+        display: table;
+        height: 20%;
+    }
+
+    #t11 {
+        font-size: 2.5rem;
+        font-weight: bolder;
+        text-align: center;
+        width: 100%;
+        padding: 4rem;
+
+    }
+
+    .split {
+        height: 30vh;
+        background: linear-gradient(to bottom,
+                white 0%,
+                white 50%,
+                darkgreen 50%,
+                darkgreen 100%);
+        display: flex;
+        justify-content: center;
+    }
+
+    .vertical {
+        display: none;
+    }
+
+    input[type=submit] {
+        background-color: orangered;
+        color: white;
+        font-size: 3vh;
+        margin: 1.5vh;
+        padding: 12px 20px;
+        border: none;
+        border-radius: 4px;
+        cursor: pointer;
+        text-align: center;
+    }
+
+    .break1 {
+        flex-basis: 100%;
+        width: 0;
+    }
+
+    .break {
+        flex-basis: 0;
+        width: 100%;
+    }
+
+    .con9 {
+
+        margin: 3rem;
+        width: 56rem;
+        height: 48rem;
+        background-size: cover;
+
+    }
+
+    #h91 {
+        position: absolute;
+        color: white;
+        width: 56rem;
+        height: 10rem;
+        text-align: center;
+        font-weight: bolder;
+        background-color: #7DAA7B;
+        font-size: 4rem;
+        margin-top: 38rem;
+    }
+
+    .overlay {
+        position: absolute;
+        opacity: 0;
+
+        background: #7DAA7B;
+        width: 56rem;
+        height: 0;
+
+        cursor: pointer;
+    
+    }
+
+    #h61 {
+        font-size: 3rem;
+
+        margin-left: 9rem;
+        margin-right: 9rem;
+    }
+
+    #h661 {
+        font-size: 2rem;
+    }
+
+    .con9:hover .overlay {
+        opacity: 1;
+        height: 48rem;
+        animation-name: a4;
+        animation-duration: 0.45s;
+        animation-iteration-count: 1;
+        animation-fill-mode: forwards;
+        animation-timing-function: ease-out;
+        transition: 0.5s ease;
+
+    }
+
+    @keyframes a4 {
+        0% {
+            transform: translateY(152px);
+            opacity: 0;
+        }
+
+        50% {
+            opacity: 0.5;
+        }
+
+        100% {
+            transform: translateY(0px);
+            opacity: 1;
+        }
+
+    }
+
+    .flexx {
+        display: contents;
+    }
+
+    .info {
+        display: flex;
+        justify-content: space-around;
+        width: 100%;
+    }
+    .break5 {
+        flex-basis: 100%;
+        width: 0;
+    }
+    #img6 {
+        height: 9rem;
+        width: 9rem;
+        margin: 0;
+    }
+}
