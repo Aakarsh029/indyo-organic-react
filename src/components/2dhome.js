@@ -3,7 +3,7 @@ import React from "react";
 export default function Home() {
   return (
     <div
-      id="carouselExampleIndicators"
+      id="carouselExampleIndicators" 
       className="carousel slide"
       data-ride="carousel"
       style={{
